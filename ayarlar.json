@@ -1,0 +1,31 @@
+  {
+    "botdurum" : "Gang Amınakoyım",
+
+    "sahip" : "886656636842827856",
+    "prefix" : "*",
+    "footer" : "Senju",
+
+    "tag" : "Brahman\n 神\n #0034",
+    "sembol" : "神",
+  
+    "yetkiliRol" : ["947427257020985404"],
+    "vipRol" : "947112636468830289",
+    "boosterRol" : "947122952116265032",
+    "kayıtsızRol" : " 947112656052060241",
+    "erkekRol1" : "",
+    "erkekRol2" : "YOKSA BOŞ BIRAK",
+    "kadınRol1" : "",
+    "kadınRol2" : "YOKSA BOŞ BIRAK",
+
+    "tagRol" : "947137816545067008",
+    
+    "uyeRol" : "947112656052060241",
+
+    "hosgeldinKanal" : "947112924441346098",
+    "sohbetKanal" : "947112924441346098", 
+    "botSesKanal" : "947255223813013514",
+  
+    "yes" : ":white_check_mark:",
+    "no" : ":x:",
+    "fakerol": "955244543312285726"
+}
